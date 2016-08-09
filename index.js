@@ -1,0 +1,1 @@
+console.log('这是自己建的index');
